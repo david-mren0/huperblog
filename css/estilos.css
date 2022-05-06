@@ -2,4 +2,10 @@ body{
     color: blueviolet;
     text-align: center;
     font-family: arial;
+    border: 1px rgb(22, 133, 81);
 }
+
+#container{
+    background-color: rgb(199, 221, 75);
+}
+
