@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Esta es la historia de David Moreno     
 
 David Moreno tiene 19 años y nació en Colombia
 
 Hoy hablaremos de su historiay de su vida
+=======
+Esta es la historia
+
+Mañana nos enfocaremos en su vida laboral 
+>>>>>>> 9e1400ac7f8efdb3214cdc87685f8a322ce194e2

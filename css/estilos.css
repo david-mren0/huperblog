@@ -1,5 +1,23 @@
+<<<<<<< HEAD
 body {
     color: deeppink;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+=======
+body{
+    color: blueviolet;
+    margin: 200px;
+    text-align: center;
+    font-family: arial;
+    border: 1px rgb(22, 133, 81);
+}
+
+#container{
+    background-color: rgb(245, 149, 23);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 600px;
+    height: 800px;
+}
+
+>>>>>>> 9e1400ac7f8efdb3214cdc87685f8a322ce194e2
